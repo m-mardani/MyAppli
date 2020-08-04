@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+
         aSwitch = findViewById(R.id.switch1);
         textView = findViewById(R.id.Textview);
 
@@ -54,6 +56,11 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
     }
 
+
+    //new Line
+    private void attack(){
+
+    }
 
 
     @Override
