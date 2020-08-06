@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
     private void attack(){
         // Add Comment
         //Add New Comment
+        //Secound Comment
     }
 
 
