@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
     }
 
 
-    //new Line
+
     private void attack(){
 
     }
